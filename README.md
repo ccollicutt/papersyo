@@ -1,7 +1,8 @@
 # Papersyo
 
-These are papers I have read or should read or wish I was smart enough to read and understand. Trying to keep track of them as they end up dying in broswer tabs.
+These are papers I have read or should read or wish I was smart enough to read and understand. Trying to keep track of them as they end up dying in browser tabs.
 
+* [Internet Failures: An Emergent Sea of Complex Systems and Critical Design Errors?](http://www.cl.cam.ac.uk/~jac22/out/bcs.pdf)
 * [FlowBender: Flow-level Adaptive Routing for Improved Latency and Throughput in Datacenter Networks](http://conferences2.sigcomm.org/co-next/2014/CoNEXT_papers/p149.pdf)
 * [The Nature of Datacenter Traffic: Measurements & Analysis](http://www.msr-waypoint.com/en-us/UM/people/srikanth/data/imc09_dcTraffic.pdf)
 * [Exploring the Duality between Product and Organizational Architectures: A Test of the "Mirroring" Hypothesis](http://www.hbs.edu/faculty/Publication%20Files/08-039_1861e507-1dc1-4602-85b8-90d71559d85b.pdf)
