@@ -2,6 +2,7 @@
 
 These are papers I have read or should read or wish I was smart enough to read and understand. Trying to keep track of them as they end up dying in browser tabs.
 
+* [iAn Approach to Bounded Rationality](http://www.cs.cmu.edu/~sandholm/cs15-892F13/an_approach_to_bounded_rationality.pdf)
 * [Driller: Augmenting Fuzzing Through Selective Symbolic Execution](https://www.internetsociety.org/sites/default/files/blogs-media/driller-augmenting-fuzzing-through-selective-symbolic-execution.pdf)
 * [A Network-State Management Service](https://www.cs.princeton.edu/~pengsun/files/statesman-sigcomm-final.pdf)
 * [Internet Failures: An Emergent Sea of Complex Systems and Critical Design Errors?](http://www.cl.cam.ac.uk/~jac22/out/bcs.pdf)
