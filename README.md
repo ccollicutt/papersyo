@@ -2,6 +2,7 @@
 
 These are papers I have read or should read or wish I was smart enough to read and understand. Trying to keep track of them as they end up dying in browser tabs.
 
+* [Sizing Router Buffers](http://yuba.stanford.edu/~nickm/papers/sigcomm2004.pdf)
 * [The Linux Scheduler: a Decade of Wasted Cores](http://www.ece.ubc.ca/~sasha/papers/eurosys16-final29.pdf)
 * [The Evolution of Layered Protocol Stacks Leads to an Hourglass-Shaped Architecture](http://conferences.sigcomm.org/sigcomm/2011/papers/sigcomm/p206.pdf)
 * [Maglev: A Fast and Reliable Software Network Load Balancer](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44824.pdf)
