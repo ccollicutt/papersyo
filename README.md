@@ -2,6 +2,9 @@
 
 These are papers I have read or should read or wish I was smart enough to read and understand. Trying to keep track of them as they end up dying in browser tabs.
 
+* [Differentiating Communication Styles of Leaders on the Linux Kernel Mailing List](http://www.opensym.org/os2016/proceedings-files/p101-schneider.pdf)
+* [Dedup Est Machina: Memory Deduplication as an Advanced Exploitation Vector](http://www.ieee-security.org/TC/SP2016/papers/0824a987.pdf)
+* [SWIM: Scalable Weakly-consistent Infection-style Process Group Membership Protocol](http://www.cs.cornell.edu/~asdas/research/dsn02-swim.pdf)
 * [Distributed Snapshots: Determining Global States of Distributed Systems](https://www.cs.swarthmore.edu/~newhall/readings/snapshots.pdf)
 * [Sizing Router Buffers](http://yuba.stanford.edu/~nickm/papers/sigcomm2004.pdf)
 * [The Linux Scheduler: a Decade of Wasted Cores](http://www.ece.ubc.ca/~sasha/papers/eurosys16-final29.pdf)
