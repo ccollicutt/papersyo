@@ -2,6 +2,8 @@
 
 These are papers I have read or should read or wish I was smart enough to read and understand. Trying to keep track of them as they end up dying in browser tabs.
 
+* [On Designing and Deploying Internet-Scale Services](http://mvdirona.com/jrh/talksAndPapers/JamesRH_Lisa.pdf)
+* [Flip Feng Shui: Hammering a Needle in the Software Stack](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_razavi.pdf)
 * [Differentiating Communication Styles of Leaders on the Linux Kernel Mailing List](http://www.opensym.org/os2016/proceedings-files/p101-schneider.pdf)
 * [Dedup Est Machina: Memory Deduplication as an Advanced Exploitation Vector](http://www.ieee-security.org/TC/SP2016/papers/0824a987.pdf)
 * [SWIM: Scalable Weakly-consistent Infection-style Process Group Membership Protocol](http://www.cs.cornell.edu/~asdas/research/dsn02-swim.pdf)
