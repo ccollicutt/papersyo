@@ -2,6 +2,10 @@
 
 These are papers I have read or should read or wish I was smart enough to read and understand. Trying to keep track of them as they end up dying in browser tabs.
 
+* [The Security Impact of HTTPS Interception](https://jhalderm.com/pub/papers/interception-ndss17.pdf)
+* [Don’t Forget to Lock the Back Door! A Characterization of IPv6 Network Security Policy](http://www.caida.org/publications/papers/2016/dont_forget_lock_ndss/dont_forget_lock_ndss.pdf)
+* [Field-aware Factorization Machines in a Real-world Online Advertising System](https://arxiv.org/pdf/1701.04099v1.pdf)
+* [B4: Experience with a Globally-Deployed Software Defined WAN](https://people.eecs.berkeley.edu/~sylvia/cs268-2014/papers/b4-sigcomm13.pdf)
 * [On Designing and Deploying Internet-Scale Services](http://mvdirona.com/jrh/talksAndPapers/JamesRH_Lisa.pdf)
 * [Flip Feng Shui: Hammering a Needle in the Software Stack](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_razavi.pdf)
 * [Differentiating Communication Styles of Leaders on the Linux Kernel Mailing List](http://www.opensym.org/os2016/proceedings-files/p101-schneider.pdf)
