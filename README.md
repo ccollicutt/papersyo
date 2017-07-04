@@ -2,6 +2,8 @@
 
 These are papers I have read or should read or wish I was smart enough to read and understand. Trying to keep track of them as they end up dying in browser tabs.
 
+* [Measuring YouTube Content Delivery over IPv6](http://vaibhavbajpai.com/documents/papers/proceedings/youtube-ccr-2017.pdf)
+* [DNM Safety Systems Thinking for Safety: Ten Principles A White Paper](http://skybrary.aero/bookshelf/books/2882.pdf)
 * [The Security Impact of HTTPS Interception](https://jhalderm.com/pub/papers/interception-ndss17.pdf)
 * [Don’t Forget to Lock the Back Door! A Characterization of IPv6 Network Security Policy](http://www.caida.org/publications/papers/2016/dont_forget_lock_ndss/dont_forget_lock_ndss.pdf)
 * [Field-aware Factorization Machines in a Real-world Online Advertising System](https://arxiv.org/pdf/1701.04099v1.pdf)
@@ -27,3 +29,4 @@ These are papers I have read or should read or wish I was smart enough to read a
 * [A Promise Theory Appraoch to Understanding Resilience: Faults, Errors, and Toleranc within Systems](http://markburgess.org/Faults.pdf)
 * [Building Robust Systems: An Essay](https://groups.csail.mit.edu/mac/users/gjs/6.945/readings/robust-systems.pdf)
 * [Why Order Matters: Turing Equivalence in Automated Systems Administration](https://www.usenix.org/legacy/publications/library/proceedings/lisa02/tech/full_papers/traugott/traugott_html/index.html)
+* [Bobtail: Avoiding Long Tails in the Cloud](https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final77.pdf)
