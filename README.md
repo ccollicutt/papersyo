@@ -2,6 +2,8 @@
 
 These are papers I have read or should read or wish I was smart enough to read and understand. Trying to keep track of them as they end up dying in browser tabs.
 
+* [Robust Physical-World Attacks on Machine Learning Models](https://arxiv.org/pdf/1707.08945v1.pdf)
+* [Breaking the x86 ISA](https://github.com/xoreaxeaxeax/sandsifter/blob/master/references/domas_breaking_the_x86_isa_wp.pdf)
 * [Measuring YouTube Content Delivery over IPv6](http://vaibhavbajpai.com/documents/papers/proceedings/youtube-ccr-2017.pdf)
 * [DNM Safety Systems Thinking for Safety: Ten Principles A White Paper](http://skybrary.aero/bookshelf/books/2882.pdf)
 * [The Security Impact of HTTPS Interception](https://jhalderm.com/pub/papers/interception-ndss17.pdf)
