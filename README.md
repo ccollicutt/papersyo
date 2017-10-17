@@ -2,6 +2,11 @@
 
 These are papers I have read or should read or wish I was smart enough to read and understand. Trying to keep track of them as they end up dying in browser tabs.
 
+* [Key Reinstallation Attacks: Forcing Nonce Reuse in WPA2](https://papers.mathyvanhoef.com/ccs2017.pdf)
+* [An Analysis of the Privacy and Security Risks of Android VPN Permission-enabled Apps](https://research.csiro.au/ng/wp-content/uploads/sites/106/2016/08/paper-1.pdf)
+* [E2: A Framework for NFV Applications](http://info.iet.unipi.it/~luigi/papers/20151004-e2-sosp.pdf)
+* [SoftNIC: A Software NIC to Augment Hardware](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-155.pdf)
+* [Lessons from Giant-Scale Services](https://people.eecs.berkeley.edu/~brewer/papers/GiantScale-IEEE.pdf)
 * [Robust Physical-World Attacks on Machine Learning Models](https://arxiv.org/pdf/1707.08945v1.pdf)
 * [Breaking the x86 ISA](https://github.com/xoreaxeaxeax/sandsifter/blob/master/references/domas_breaking_the_x86_isa_wp.pdf)
 * [Measuring YouTube Content Delivery over IPv6](http://vaibhavbajpai.com/documents/papers/proceedings/youtube-ccr-2017.pdf)
