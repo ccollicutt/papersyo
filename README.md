@@ -2,6 +2,9 @@
 
 These are papers I have read or should read or wish I was smart enough to read and understand. Trying to keep track of them as they end up dying in browser tabs.
 
+* [CrystalNet: Faithfully Emulating Large Production Networks](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/p599-liu.pdf)
+* [Intent NBI – Definition and Principles](https://www.opennetworking.org/images/stories/downloads/sdn-resources/technical-reports/TR-523_Intent_Definition_Principles.pdf)
+* [Service Chaining in Carrier Networks](http://www.qosmos.com/wp-content/uploads/2015/02/Service-Chaining-in-Carrier-Networks_WP_Heavy-Reading_Qosmos_Feb2015.pdf)
 * [Key Reinstallation Attacks: Forcing Nonce Reuse in WPA2](https://papers.mathyvanhoef.com/ccs2017.pdf)
 * [An Analysis of the Privacy and Security Risks of Android VPN Permission-enabled Apps](https://research.csiro.au/ng/wp-content/uploads/sites/106/2016/08/paper-1.pdf)
 * [E2: A Framework for NFV Applications](http://info.iet.unipi.it/~luigi/papers/20151004-e2-sosp.pdf)
