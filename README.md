@@ -2,6 +2,11 @@
 
 These are papers I have read or should read or wish I was smart enough to read and understand. Trying to keep track of them as they end up dying in browser tabs.
 
+* [Making reliable distributed systems in the presence of software errors](http://erlang.org/download/armstrong_thesis_2003.pdf)
+* [OpenFlow: Enabling Innovation in Campus Networks](http://ccr.sigcomm.org/online/files/p69-v38n2n-mckeown.pdf)
+* [How Complex Systems Fail](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf)
+* [The Causes and Consequences of House Price Momentum](http://scholar.harvard.edu/files/guren/files/gurenjmp.pdf)
+* [The Case for Learned Index Structures](https://arxiv.org/pdf/1712.01208v1.pdf)
 * [CrystalNet: Faithfully Emulating Large Production Networks](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/p599-liu.pdf)
 * [Intent NBI – Definition and Principles](https://www.opennetworking.org/images/stories/downloads/sdn-resources/technical-reports/TR-523_Intent_Definition_Principles.pdf)
 * [Service Chaining in Carrier Networks](http://www.qosmos.com/wp-content/uploads/2015/02/Service-Chaining-in-Carrier-Networks_WP_Heavy-Reading_Qosmos_Feb2015.pdf)
