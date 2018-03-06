@@ -2,6 +2,8 @@
 
 These are papers I have read or should read or wish I was smart enough to read and understand. Trying to keep track of them as they end up dying in browser tabs.
 
+* [LTEInspector : A Systematic Approach for Adversarial Testing of 4G LTE](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_02A-3_Hussain_paper.pdf)
+* [Implementation of Virtual Network Function Chaining through Segment Routing in a Linux-based NFV Infrastructure](https://arxiv.org/pdf/1702.05157.pdf)
 * [Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective](https://research.fb.com/wp-content/uploads/2017/12/hpca-2018-facebook.pdf)
 * [Demystifying Userspace Packet IO Frameworks](https://www.net.in.tum.de/fileadmin/bibtex/publications/papers/ixy_paper_short_draft1.pdf)
 * [Making reliable distributed systems in the presence of software errors](http://erlang.org/download/armstrong_thesis_2003.pdf)
