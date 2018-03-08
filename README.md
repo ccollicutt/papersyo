@@ -2,6 +2,11 @@
 
 These are papers I have read or should read or wish I was smart enough to read and understand. Trying to keep track of them as they end up dying in browser tabs.
 
+* [All About MPLS Traffic Engineering](http://www.packetdesign.com/wp-content/uploads/2017/10/EBook-MPLS-Traffic-Engineering.pdf)
+* [IP/MPLS Performance and Path Analytics for Teleprotection in Power Utilities](http://www.packetdesign.com/wp-content/uploads/2018/03/IP-MPLS-Performance-and-Path-Analytics.pdf)
+* [Low-latency trading](http://people.stern.nyu.edu/jhasbrou/Research/LowLatencyTradingJFM.pdf)
+* [iAn Updated Performance Comparison of Virtual Machines and Linux Containers](http://domino.research.ibm.com/library/cyberdig.nsf/papers/0929052195DD819C85257D2300681E7B/$File/rc25482.pdf)
+* [The Akami Network](https://github.com/papers-we-love/papers-we-love/blob/master/distributed_systems/the-akamai-network.pdf)
 * [LTEInspector : A Systematic Approach for Adversarial Testing of 4G LTE](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_02A-3_Hussain_paper.pdf)
 * [Implementation of Virtual Network Function Chaining through Segment Routing in a Linux-based NFV Infrastructure](https://arxiv.org/pdf/1702.05157.pdf)
 * [Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective](https://research.fb.com/wp-content/uploads/2017/12/hpca-2018-facebook.pdf)
