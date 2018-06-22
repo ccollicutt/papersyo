@@ -2,6 +2,11 @@
 
 These are papers I have read or should read or wish I was smart enough to read and understand. Trying to keep track of them as they end up dying in browser tabs.
 
+* [Detecting Kernel Memory Disclosure with x86 Emulation and Taint Tracking](http://j00ru.vexillium.org/papers/2018/bochspwn_reloaded.pdf)
+* [Small Cache, Big Effect: Provable Load Balancing for Randomly Partitioned Cluster Services](https://www.cs.cmu.edu/~dga/papers/loadbal-socc2011.pdf)
+* [Why We Engage in FLOSS: Answers from Core Developers](https://arxiv.org/pdf/1803.05741.pdf)l
+* [VMware distributed resource Management: design, Implementation, and lessons learned](http://w.waldspurger.org/carl/papers/drs-vmtj-mar12.pdf)
+* [Revealing MPLS Tunnels Obscured from Traceroute](http://www.sigcomm.org/sites/default/files/ccr/papers/2012/April/2185376-2185388.pdf)
 * [A Smooth Exit from Eternal Inflation?](https://arxiv.org/pdf/1707.07702.pdf)
 * LTE - [LTE PHY Layer Vulnerability Analysis and Testing Using Open-Source SDR Tools](https://arxiv.org/pdf/1708.05887.pdf)
 * LTE - [On Security Research Towards Future Mobile Network Generations](https://arxiv.org/pdf/1710.08932.pdf)
