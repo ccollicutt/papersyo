@@ -2,6 +2,7 @@
 
 These are papers I have read or should read or wish I was smart enough to read and understand. Trying to keep track of them as they end up dying in browser tabs.
 
+* [Gravitational Lensing by Spinning Black Holes in Astrophysicsm and in the Movie Interstellar](https://arxiv.org/pdf/1502.03808.pdf)
 * [Holistic Configuration Management at Facebook](https://research.fb.com/wp-content/uploads/2016/11/holistic-configuration-management-at-facebook.pdf)
 * [TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing](https://arxiv.org/pdf/1807.10875.pdf)
 * [The Practice of Change](http://web.media.mit.edu/%7Ejoi/files/ito_diss_v1_1.pdf)
