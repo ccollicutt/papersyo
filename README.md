@@ -2,6 +2,20 @@
 
 These are papers I have read or should read or wish I was smart enough to read and understand. Trying to keep track of them as they end up dying in browser tabs.
 
+* [Holistic Configuration Management at Facebook](https://research.fb.com/wp-content/uploads/2016/11/holistic-configuration-management-at-facebook.pdf)
+* [TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing](https://arxiv.org/pdf/1807.10875.pdf)
+* [The Practice of Change](http://web.media.mit.edu/%7Ejoi/files/ito_diss_v1_1.pdf)
+* [Machine Learning: The High-Interest Credit Card of Technical Debt](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf)
+* [Why and How Java Developers Break APIs](https://arxiv.org/pdf/1801.05198.pdf)
+* [The Case for Automatic Database Administration using Deep Reinforcement Learning](https://arxiv.org/pdf/1801.05643.pdf)
+* [Stateless Network Functions: Breaking the Tight Coupling of State and Processing](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-kablan.pdf)
+* [Formal Analysis of 5G Authentication](https://arxiv.org/pdf/1806.10360.pdf)
+* [A Comparison of Reinforcement Learning Techniques for Fuzzy Cloud Auto-Scaling](https://arxiv.org/pdf/1705.07114.pdf)
+* [Adversarial Reprogramming of Neural Networks](https://arxiv.org/pdf/1806.11146.pdf)
+* [EnclaveDB: A Secure Database using SGX](https://www.microsoft.com/en-us/research/uploads/prod/2018/02/enclavedb.pdf)
+* [HALO: Hop-by-Hop Adaptive Link-State Optimal Routing](https://people.ece.cornell.edu/atang/pub/15/HALO_ToN.pdf)
+* [Implementation of Virtual Network Function Chaining through Segment Routing in a Linux-based NFV Infrastructure](https://arxiv.org/pdf/1702.05157.pdf)
+* [Software Resolved Networks: Rethinking Enterprise Networks with IPv6 Segment Routing](https://inl.info.ucl.ac.be/system/files/sosr18-final15-embedfonts.pdf)
 * [Detecting Kernel Memory Disclosure with x86 Emulation and Taint Tracking](http://j00ru.vexillium.org/papers/2018/bochspwn_reloaded.pdf)
 * [Small Cache, Big Effect: Provable Load Balancing for Randomly Partitioned Cluster Services](https://www.cs.cmu.edu/~dga/papers/loadbal-socc2011.pdf)
 * [Why We Engage in FLOSS: Answers from Core Developers](https://arxiv.org/pdf/1803.05741.pdf)l
