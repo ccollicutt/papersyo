@@ -2,6 +2,12 @@
 
 These are papers I have read or should read or wish I was smart enough to read and understand. Trying to keep track of them as they end up dying in browser tabs.
 
+* [Writing Network Drivers in Go](https://www.net.in.tum.de/fileadmin/bibtex/publications/theses/2018-ixy-go.pdf)
+* [Writing Network Drivers in Rust](https://www.net.in.tum.de/fileadmin/bibtex/publications/theses/2018-ixy-rust.pdf)
+* [The 2 Sigma Problem](http://web.mit.edu/5.95/readings/bloom-two-sigma.pdf
+* [Constrained Bayesian Optimization with Noisy Experiments](https://projecteuclid.org/download/pdfview_1/euclid.ba/1533866666)
+* [Ghosts of Departed Proofs (Functional Pearl)](http://kataskeue.com/gdp.pdf)
+* [Peeking Behind the Curtains of Serverless Platforms](http://pages.cs.wisc.edu/~liangw/pub/atc18-final298.pdf)
 * [Gravitational Lensing by Spinning Black Holes in Astrophysicsm and in the Movie Interstellar](https://arxiv.org/pdf/1502.03808.pdf)
 * [Holistic Configuration Management at Facebook](https://research.fb.com/wp-content/uploads/2016/11/holistic-configuration-management-at-facebook.pdf)
 * [TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing](https://arxiv.org/pdf/1807.10875.pdf)
