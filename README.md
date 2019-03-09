@@ -2,6 +2,10 @@
 
 These are papers I have read or should read or wish I was smart enough to read and understand. Trying to keep track of them as they end up dying in browser tabs.
 
+* [A Generalised Solution to Distributed Consensus](https://arxiv.org/pdf/1902.06776.pdf)
+* [Application modernization and the decoupling of infrastructure services and teams](http://services.google.com/fh/files/blogs/csp_white_paper.pdf)
+* [Shielding Applications from an Untrusted Cloud with Haven](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-baumann.pdf)
+* [Verified iptables Firewall Analysis and Verification](https://link.springer.com/content/pdf/10.1007%2Fs10817-017-9445-1.pdf)
 * [Spectre is here to stay: An analysis of side-channels and speculative execution](https://arxiv.org/pdf/1902.05178.pdf)
 * [Writing Network Drivers in Go](https://www.net.in.tum.de/fileadmin/bibtex/publications/theses/2018-ixy-go.pdf)
 * [Writing Network Drivers in Rust](https://www.net.in.tum.de/fileadmin/bibtex/publications/theses/2018-ixy-rust.pdf)
