@@ -2,6 +2,12 @@
 
 These are papers I have read or should read or wish I was smart enough to read and understand. Trying to keep track of them as they end up dying in browser tabs.
 
+* [Security Overview of AWS Lambda](https://d1.awsstatic.com/whitepapers/Overview-AWS-Lambda-Security.pdf)
+* [A Generalised Solution to Distributed Consensus](https://arxiv.org/pdf/1902.06776.pdf)
+* [Verified iptables Firewall Analysis and Verification](https://link.springer.com/content/pdf/10.1007%2Fs10817-017-9445-1.pdf)
+* [Shielding Applications from an Untrusted Cloud with Have](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-baumann.pdf)
+* [Peeking Behind the Curtains of Serverless Platforms](https://www.usenix.org/system/files/conference/atc18/atc18-wang-liang.pdf)
+* [Maelstrom: Mitigating Datacenter-level Disasters by Draining Interdependent Traffic Safely and Efficiently](https://www.usenix.org/system/files/osdi18-veeraraghavan.pdf)
 * [A Generalised Solution to Distributed Consensus](https://arxiv.org/pdf/1902.06776.pdf)
 * [Application modernization and the decoupling of infrastructure services and teams](http://services.google.com/fh/files/blogs/csp_white_paper.pdf)
 * [Shielding Applications from an Untrusted Cloud with Haven](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-baumann.pdf)
