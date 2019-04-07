@@ -2,6 +2,8 @@
 
 These are papers I have read or should read or wish I was smart enough to read and understand. Trying to keep track of them as they end up dying in browser tabs.
 
+* [On the Duality of Operating System Structures](http://web.cecs.pdx.edu/~walpole/class/cs533/papers/duality78.pdf) - NOTE: Papers We Love Toronto
+* [Serverless Computing: One Step Forward, Two Steps Back](https://arxiv.org/pdf/1812.03651) - Cites Duality of Operating Systems paper
 * [Security Overview of AWS Lambda](https://d1.awsstatic.com/whitepapers/Overview-AWS-Lambda-Security.pdf)
 * [A Generalised Solution to Distributed Consensus](https://arxiv.org/pdf/1902.06776.pdf)
 * [Verified iptables Firewall Analysis and Verification](https://link.springer.com/content/pdf/10.1007%2Fs10817-017-9445-1.pdf)
