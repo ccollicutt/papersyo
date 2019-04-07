@@ -17,7 +17,7 @@ These are papers I have read or should read or wish I was smart enough to read a
 * [Spectre is here to stay: An analysis of side-channels and speculative execution](https://arxiv.org/pdf/1902.05178.pdf)
 * [Writing Network Drivers in Go](https://www.net.in.tum.de/fileadmin/bibtex/publications/theses/2018-ixy-go.pdf)
 * [Writing Network Drivers in Rust](https://www.net.in.tum.de/fileadmin/bibtex/publications/theses/2018-ixy-rust.pdf)
-* [The 2 Sigma Problem](http://web.mit.edu/5.95/readings/bloom-two-sigma.pdf
+* [The 2 Sigma Problem](http://web.mit.edu/5.95/readings/bloom-two-sigma.pdf)
 * [Constrained Bayesian Optimization with Noisy Experiments](https://projecteuclid.org/download/pdfview_1/euclid.ba/1533866666)
 * [Ghosts of Departed Proofs (Functional Pearl)](http://kataskeue.com/gdp.pdf)
 * [Peeking Behind the Curtains of Serverless Platforms](http://pages.cs.wisc.edu/~liangw/pub/atc18-final298.pdf)
