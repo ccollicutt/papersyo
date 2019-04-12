@@ -2,6 +2,7 @@
 
 These are papers I have read or should read or wish I was smart enough to read and understand. Trying to keep track of them as they end up dying in browser tabs.
 
+* [Private LTE Networks](https://www.qualcomm.com/media/documents/files/private-lte-networks.pdf)
 * [Performance Effects of Architectural Complexity in the Intel 432](https://www.princeton.edu/~rblee/ELE572Papers/Fall04Readings/I432.pdf)
 * [On the Duality of Operating System Structures](http://web.cecs.pdx.edu/~walpole/class/cs533/papers/duality78.pdf) - NOTE: Papers We Love Toronto
 * [Serverless Computing: One Step Forward, Two Steps Back](https://arxiv.org/pdf/1812.03651) - Cites Duality of Operating Systems paper
