@@ -2,6 +2,8 @@
 
 These are papers I have read or should read or wish I was smart enough to read and understand. Trying to keep track of them as they end up dying in browser tabs.
 
+* [From Laptop to Lambda:Outsourcing Everyday Jobs to Thousands of Transient Functional Containers](https://www-cs.stanford.edu/~matei/papers/2019/usenix_atc_gg.pdf)
+* [Crash Only Software](https://dslab.epfl.ch/pubs/crashonly.pdf)
 * [Democratizing the Network Edge](https://ccronline.sigcomm.org/wp-content/uploads/2019/05/acmdl19-289.pdf)
 * [JOX: An Event-Driven Orchestrator for 5GNetwork Slicing](https://www.5g-picture-project.eu/download/jox_2018_eur.pdf)
 * [Auto-Keras: An Efficient Neural Architecture Search System](https://arxiv.org/pdf/1806.10282.pdf)
