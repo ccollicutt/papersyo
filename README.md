@@ -2,6 +2,9 @@
 
 These are papers I have read or should read or wish I was smart enough to read and understand. Trying to keep track of them as they end up dying in browser tabs.
 
+* [Compressing Differences of Executable Code](https://robert.muth.org/Papers/1999-exediff.pdf)
+* [Delta Encoding Based Methods to Reduce the Sizeof Smartphone Application Updates](https://pdfs.semanticscholar.org/f2e4/5940e272573488e1e64802050318ad882ebb.pdf)
+* [The True Cost of Containing: A gVisor Case Study](https://www.usenix.org/system/files/hotcloud19-paper-young.pdf)
 * [From Laptop to Lambda:Outsourcing Everyday Jobs to Thousands of Transient Functional Containers](https://www-cs.stanford.edu/~matei/papers/2019/usenix_atc_gg.pdf)
 * [Crash Only Software](https://dslab.epfl.ch/pubs/crashonly.pdf)
 * [Democratizing the Network Edge](https://ccronline.sigcomm.org/wp-content/uploads/2019/05/acmdl19-289.pdf)
