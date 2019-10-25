@@ -2,6 +2,7 @@
 
 These are papers I have read or should read or wish I was smart enough to read and understand. Trying to keep track of them as they end up dying in browser tabs.
 
+* [SAGAS](https://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf)
 * [Taiji: Managing Global User Traffic for Large-Scale Internet Services at the Edge](https://github.com/copyconstruct/library/blob/master/traffic-engineering/Papers/taiji.pdf)
 * [Compressing Differences of Executable Code](https://robert.muth.org/Papers/1999-exediff.pdf)
 * [Delta Encoding Based Methods to Reduce the Sizeof Smartphone Application Updates](https://pdfs.semanticscholar.org/f2e4/5940e272573488e1e64802050318ad882ebb.pdf)
