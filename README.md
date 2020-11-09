@@ -2,6 +2,8 @@
 
 These are papers I have read or should read or wish I was smart enough to read and understand. Trying to keep track of them as they end up dying in browser tabs.
 
+
+* [On Being the Right Size](http://www.phys.ufl.edu/courses/phy3221/spring10/HaldaneRightSize.pdf)
 * [Some Social and Psychological Consequences of the Longwall Method of Coal-Getting](https://www.uv.es/gonzalev/PSI%20ORG%2006-07/ARTICULOS%20RRHH%20SOCIOTEC/Trist%20Long%20Wall%20Method%20HR%201951.pdf)
 * [A Taxonomy of Dependencies in Agile Software Development](https://pdfs.semanticscholar.org/eeba/00a763abffda2544e0b24f3e899cdabf3522.pdf)
 * [Snap: a Microkernel Approach to Host Networking](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36f0f9b41e969a00d75da7693571e988996c9f4c.pdf)
