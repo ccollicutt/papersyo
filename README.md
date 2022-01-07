@@ -2,6 +2,7 @@
 
 These are papers I have read or should read or wish I was smart enough to read and understand. Trying to keep track of them as they end up dying in browser tabs.
 
+* [A Transrealist Manifesto](https://www.rudyrucker.com/pdf/transrealistmanifesto.pdf)
 * [On the Measure of Intelligence](https://arxiv.org/pdf/1911.01547.pdf)
 * [NSA Kubernetes Hardening Guide](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF)
 * [Out of the Tar Pit](http://curtclifton.net/papers/MoseleyMarks06a.pdf)
