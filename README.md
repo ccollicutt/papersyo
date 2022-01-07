@@ -2,6 +2,10 @@
 
 These are papers I have read or should read or wish I was smart enough to read and understand. Trying to keep track of them as they end up dying in browser tabs.
 
+* [On the Measure of Intelligence](https://arxiv.org/pdf/1911.01547.pdf)
+* [NSA Kubernetes Hardening Guide](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF)
+* [Out of the Tar Pit](http://curtclifton.net/papers/MoseleyMarks06a.pdf)
+* [Firecracker: Lightweight Virtualization for Serverless Applications](https://assets.amazon.science/96/c6/302e527240a3b1f86c86c3e8fc3d/firecracker-lightweight-virtualization-for-serverless-applications.pdf)
 * [The Edges of Our Universe](https://arxiv.org/pdf/2104.01191.pdf)
 * [Milk or Wine: Does Software Security Improve with Age?](https://www.usenix.org/legacy/events/sec06/tech/full_papers/ozment/ozment.pdf)
 * [On Being the Right Size](http://www.phys.ufl.edu/courses/phy3221/spring10/HaldaneRightSize.pdf)
