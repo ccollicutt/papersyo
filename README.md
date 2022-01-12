@@ -2,6 +2,8 @@
 
 These are papers I have read or should read or wish I was smart enough to read and understand. Trying to keep track of them as they end up dying in browser tabs.
 
+* [Stack Computers: The New Wave](https://users.ece.cmu.edu/~koopman/stack_computers/stack_computers_book.pdf)
+* [A Neural Network Solves and Generates Mathematics Problems by Program Synthesis: Calculus, Differential Equations, Linear Algebra, and More](https://arxiv.org/pdf/2112.15594.pdf)
 * [A Transrealist Manifesto](https://www.rudyrucker.com/pdf/transrealistmanifesto.pdf)
 * [On the Measure of Intelligence](https://arxiv.org/pdf/1911.01547.pdf)
 * [NSA Kubernetes Hardening Guide](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF)
