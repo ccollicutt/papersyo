@@ -2,6 +2,7 @@
 
 These are papers I have read or should read or wish I was smart enough to read and understand. Trying to keep track of them as they end up dying in browser tabs.
 
+* [The Astrobiological Copernican Weak and Strong Limits for Intelligent Life](https://arxiv.org/pdf/2004.03968.pdf)
 * [Where the Counterculture Met the New Economy The WELL and the Origins of Virtual Community](https://fredturner.stanford.edu/wp-content/uploads/turner-tc-counterculture-new-economy.pdf)
 * [Stack Computers: The New Wave](https://users.ece.cmu.edu/~koopman/stack_computers/stack_computers_book.pdf)
 * [A Neural Network Solves and Generates Mathematics Problems by Program Synthesis: Calculus, Differential Equations, Linear Algebra, and More](https://arxiv.org/pdf/2112.15594.pdf)
