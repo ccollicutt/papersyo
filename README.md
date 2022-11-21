@@ -2,6 +2,11 @@
 
 These are papers I have read or should read or wish I was smart enough to read and understand. Trying to keep track of them as they end up dying in browser tabs.
 
+* [Robbery on DevOps: Understanding and Mitigating Illicit Cryptomining on Continuous Integration Service Platforms](https://www.xiaojingliao.com/uploads/9/7/0/2/97024238/sp22-devops.pdf)
+* [The Macroscopic Behavior of the TCP Congestion Avoidance Algorithm](https://cseweb.ucsd.edu/classes/wi01/cse222/papers/mathis-tcpmodel-ccr97.pdf)
+* [BBR Congestion-Based Congestion Control](https://dl.acm.org/doi/pdf/10.1145/3012426.3022184?download=true)
+* [The Theory of Interstellar Trade](https://www.princeton.edu/~pkrugman/interstellar.pdf)
+* [Are There Quantum Jumps? Part II](https://www.informationphilosopher.com/solutions/scientists/schrodinger/Quantum_Jumps_II.pdf)
 * [The Astrobiological Copernican Weak and Strong Limits for Intelligent Life](https://arxiv.org/pdf/2004.03968.pdf)
 * [Where the Counterculture Met the New Economy The WELL and the Origins of Virtual Community](https://fredturner.stanford.edu/wp-content/uploads/turner-tc-counterculture-new-economy.pdf)
 * [Stack Computers: The New Wave](https://users.ece.cmu.edu/~koopman/stack_computers/stack_computers_book.pdf)
