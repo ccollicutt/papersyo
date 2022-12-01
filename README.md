@@ -2,6 +2,8 @@
 
 These are papers I have read or should read or wish I was smart enough to read and understand. Trying to keep track of them as they end up dying in browser tabs.
 
+* [Surprisingly Small: The Effect of Trade Secret Breaches on Firm Performance](https://sysdig.com/resources/guides/practical-cloud-native-security-with-falco-2/)
+* [Why Information Security is Hard - An Economic Perspective](http://www.ftp.cl.cam.ac.uk/ftp/users/rja14/econ.pdf)
 * [Robbery on DevOps: Understanding and Mitigating Illicit Cryptomining on Continuous Integration Service Platforms](https://www.xiaojingliao.com/uploads/9/7/0/2/97024238/sp22-devops.pdf)
 * [The Macroscopic Behavior of the TCP Congestion Avoidance Algorithm](https://cseweb.ucsd.edu/classes/wi01/cse222/papers/mathis-tcpmodel-ccr97.pdf)
 * [BBR Congestion-Based Congestion Control](https://dl.acm.org/doi/pdf/10.1145/3012426.3022184?download=true)
